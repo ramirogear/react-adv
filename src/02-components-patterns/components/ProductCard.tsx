@@ -27,3 +27,7 @@ export const ProductCard = ({ children, product }: Props) => {
     </Provider>
   )
 }
+
+//ProductCard.Title   = ProductTitle;
+//ProductCard.Image   = ProductImage;
+//ProductCard.Buttons = ProductButtons;
